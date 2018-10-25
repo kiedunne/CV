@@ -1,5 +1,6 @@
-## Your Name
+## Jackie Dunne
 
+ 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
@@ -23,7 +24,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (October 208 to February 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +35,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University College London & Yale University  (October 2013 to June 2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Developmentatl Neuroscience & Psychopathology
+- Merit
+- Thesis was an fMRI investigation of how adolescents who are obese or lean neurally process food and stressful stimuli 
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**King's College London** (March 2016 to October 2018)    
+*Research Assistant*  
+**Yale University** (start_date to end_date)   
+*Garaduate Researcher*
+**The Anna Freud Centre - Evidence-based Practice Unit** (start_date to end_date)    
+*Research Assistant*
