@@ -8,10 +8,11 @@ I've spent the last decade working with health-related data in many the realms i
 
 I'm looking for my first role as a Junior Developer with a team who are just as passionate about clean and sustainable code and creating digital products that make the world a better place.   
 
+
 ## Skills that pair nicely with coding
 
 #### Research
-A scientist from day 1, I incorporate the scientific method into how I solve any problem. I've spent the last decade thoroughly understanding complex biological and psychological processes and developing new project ideas that turn into <a href="https://www.researchgate.net/profile/Jacklyn_Dunne2/research"rel="nofollow">papers, posters or presentations.</a>  
+A scientist from day 1, I incorporate the scientific method into how I solve any problem. I've spent the last decade thoroughly understanding complex biological and psychological processes and developing new project ideas that turn into <a href="https://www.researchgate.net/profile/Jacklyn_Dunne2/research/"rel="nofollow">papers, posters or presentations.</a>  
 
 #### Data Analysis
 I'm a big believer in using data to shape the direction of a project, be it building a slick app or implementing a novel treatment for patients. I have led and contributed to many projects that used data to gain insights into a psychological or neurological problem I've used R, SPSS and STATA to understand trends in all kinds of data- from a database of alcohol and smoking trends in the UK to the recovery outcomes of spinal cord injury patients.
@@ -41,12 +42,16 @@ I am currently a fellow studying at Makers Academy, an intensive software develo
 
 **King's College London, London, UK** (March 2016 to October 2018)    
 *Researcher - Department of Addiction*  
+
 **CLUG & Hurdler Studios, Vancouver, Canada** (September 2015 to June 2016)   
 *Customer Support & Social Media Co-ordinator*
+
 **Yale University, New Haven, USA** (September 2015 to June 2016)   
 *Graduate Researcher- Department of Addiction*
+
 **The Anna Freud Centre, London, UK** (December 2013 to April 2014)    
 *Researcher - Evidence-based Practice Unit*
+
 **The Ottawa Civic Hospital, Ottawa, Canada** (August 2012 to May 2013)    
 *Researcher - Neurosurgery*
 
