@@ -12,7 +12,7 @@ I'm looking for my first role as a Junior Developer with a team who are just as 
 ## Skills that pair nicely with coding
 
 #### Research
-A scientist from day 1, I incorporate the scientific method into how I solve any problem. I've spent the last decade thoroughly understanding complex biological and psychological processes and developing new project ideas that turn into <a href="https://www.researchgate.net/profile/Jacklyn_Dunne2/research/"rel="nofollow">papers, posters or presentations.</a>  
+A scientist from day 1, I incorporate the scientific method into how I solve any problem. I've spent the last decade thoroughly understanding complex biological and psychological processes and developing new project ideas that turn into <a href="https://www.researchgate.net/profile/Jacklyn_Dunne2/research">papers, posters or presentations.</a>
 
 #### Data Analysis
 I'm a big believer in using data to shape the direction of a project, be it building a slick app or implementing a novel treatment for patients. I have led and contributed to many projects that used data to gain insights into a psychological or neurological problem I've used R, SPSS and STATA to understand trends in all kinds of data- from a database of alcohol and smoking trends in the UK to the recovery outcomes of spinal cord injury patients.
@@ -35,7 +35,7 @@ I am currently a fellow studying at Makers Academy, an intensive software develo
 *MSc. Developmental Neuroscience & Psychopathology- Merit*
 
 #### University of Ottawa (September 2009 to May 2013)
-*Honours BSc. Specialization in Psychology*
+*BSc. Specialization in Psychology- Honours*
 
 
 ## Experience
@@ -57,5 +57,5 @@ I am currently a fellow studying at Makers Academy, an intensive software develo
 
 ## Interests
 - <b>Drawing and design</b>
-- <b>Psychology Research<b/>- Member of the British Psychological Society (BPS) and Society for the Study of Addiction (SSA)
+- <b>Psychology Research<b/>- Member of the British Psychological Society (BPS)
 - <b>Bouldering</b>
