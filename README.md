@@ -2,9 +2,9 @@
 
 ### Fellow at Makers Academy
 
-I'm a full-stack developer in-training and ex-neuroscientist currently studying at <a href="http://www.makersacademy.com/" rel="nofollow">Makers Academy</a>, a dev bootcamp specializing in Ruby, Rails, Javascript, TDD and agile.
+I'm a full-stack developer and previous neuroscience researcher that recently graduated from <a href="http://www.makersacademy.com/" rel="nofollow">Makers Academy</a>, a dev bootcamp specializing in Ruby, Rails, Javascript, TDD and agile methodologies.
 
-I've spent the last decade working with health-related data in many the realms including; spinal cord injury, psychiatric neuroimaging, and drug addiction and am looking to apply for a new challenge in the form of software development!
+I've spent the last decade working with health-related data in many the realms including; spinal cord injury, psychiatric neuroimaging, and drug addiction and am looking for a new challenge in the form of software development.
 
 I'm looking for my first role as a Junior Developer with a team who are just as passionate about clean and sustainable code and creating digital products that make the world a better place.   
 
@@ -24,12 +24,12 @@ Every role in research I've had has involved breaking down complex subjects and 
 ## Education
 
 #### Makers Academy (October 2018 to February 2019)
-I am currently a fellow studying at Makers Academy, an intensive software development bootcamp that take people who are curious and passionate about coding and turn them into highly skilled developers. 
+I am a recent graduate of Makers Academy, an intensive software development bootcamp that take people who are curious and passionate about coding and turn them into highly skilled developers. 
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
+- OOP, TDD, BDD
+- Agile/XP values
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec, Jasmine, Cypress
 
 #### University College London & Yale University  (October 2013 to June 2015)
 *MSc. Developmental Neuroscience & Psychopathology- Merit*
