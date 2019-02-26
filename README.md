@@ -1,4 +1,6 @@
-## Jackie Dunne
+# Jackie Dunne
+
+<a href="https://sourcerer.io/kiedunne"><img src="https://img.shields.io/badge/Ruby-457%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/kiedunne"><img src="https://img.shields.io/badge/JavaScript-375%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/kiedunne"><img src="https://img.shields.io/badge/CSS-434%20commits-orange.svg" alt=""></a>
 
 ### Fellow at Makers Academy
 
@@ -19,6 +21,15 @@ I'm a big believer in using data to shape the direction of a project, be it buil
 
 #### Facilitation and Training
 Every role in research I've had has involved breaking down complex subjects and analysis techniques into succinct points and communicating to audiences of various backgrounds. I have led training sessions for staff on interacting with patients and data collection as well as supervised masters students.
+
+## Highlighted Projects
+
+| Name        | Stack           | Details |
+| ------------- |-------------| -----|
+| [Tic-tac-toe](https://github.com/kiedunne/tic-tac-toe)  | Javascript, Jasmine | Business logic of tic-tac-toe in Javascript |
+| [Roman Numeral Converter](https://github.com/kiedunne/roman-numeral-converter)  | Ruby, RSpec, Capybara, SimpleCov, Travis CI  |  A simple ruby app to convert decimal numbers to roman numerals |
+| [Meet and Eat](https://github.com/kiedunne/Meet-and-Eat) | Rails, Javascript, Jquery, SASS , RSpec, Capybara, FactoryBot,  SimpleCov, TravisCI | A rails app used to make and join lunch groups in your area |
+
 
 
 ## Education
