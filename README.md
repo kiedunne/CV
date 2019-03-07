@@ -25,10 +25,10 @@ I'm looking for a junior developer role within a diverse, fast-paced team who ar
 
 #### Technology
 
-| Languages  | Testing          | Frameworks   | Libraries | Design        |  Project Management |     
-| :---------:|:----------------:| :-----------:| :--------:| :------------:| :------------------:| 
-| Ruby       | Rspec            |  Rails       | React     | Photoshop     |    PivotalTracker
-| Javascript | Jasmine          |  Bootstrap   | JQuery    | Illustrator   |    Trello 
+| Languages  | Testing          | Frameworks   | Libraries | Design        |  Project Management | Data Analysis  |     
+| :----------|:-----------------| :------------| :---------| :-------------| :-------------------|:---------------|
+| Ruby       | Rspec            |  Rails       | React     | Photoshop     |    PivotalTracker   |   R
+| Javascript | Jasmine          |  Bootstrap   | JQuery    | Illustrator   |    Trello           |   SPSS
 | Sass       | Capybara         |  Express     |           | Xd
 
 #### Quick Learner 
@@ -48,11 +48,10 @@ My years of experience working with commissioners, researchers, students, and pa
 
 | Project               | Stack             | Testing            | Details           |
 | :-------------------: |-------------------| -------------------|-------------------|
-| [Tic-tac-toe](https://github.com/kiedunne/tic-tac-toe)  | Javascript| Jasmine, Travis CI  | Business logic of tic-tac-toe in vanilla Javascript |
-| [Glia](https://github.com/kiedunne/glia-app)  | React, Rails | RSpec | Client progress manager for psychological clinicians 
+| <img src='ghub_lnch.png' width="250"/><br> [Lunchbox](https://github.com/kiedunne/Lunchbox) | Rails, Javascript, Jquery, SASS, PostgreSQL | RSpec, Capybara, FactoryBot,  SimpleCov, TravisCI | Meet new people in your area on your lunch break |
 | <img src='ghub_romnum .png' width="250" height="70"/><br>[Roman Numeral Converter](https://github.com/kiedunne/roman-numeral-converter)  | Ruby |  RSpec, Capybara, SimpleCov, Travis CI | A webapp roman numeral converter | 
-| <img src='ghub_lnch.png' width="250"/><br> [Lunchbox](https://github.com/kiedunne/Lunchbox) | Rails, Javascript, Jquery, SASS, PostgreSQL | RSpec, Capybara, FactoryBot,  SimpleCov, TravisCI | Meet new people in your area on your lunch break
-
+| [Glia](https://github.com/kiedunne/glia-app)  | React, Rails | RSpec | Client progress manager for psychological clinicians|
+| [Tic-tac-toe](https://github.com/kiedunne/tic-tac-toe)  | Javascript| Jasmine, Travis CI  | Business logic of tic-tac-toe in vanilla Javascript |
 
 ## <a name="education">Education</a>
 
@@ -64,10 +63,13 @@ Makers Academy is an intensive software development bootcamp that take people wh
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine, Cypress
 
-#### University College London & Yale University  (October 2013 - June 2015)
+#### Yale University  |  New Haven, CT  |  September 2014 -June 2015 |
+*Masters neuroimaging thesis on interactions between stress and eating in the developing brain*
+
+####  University College London | London, UK | October 2013 - July 2014 |
 *MSc. Developmental Neuroscience & Psychopathology*
 
-#### University of Ottawa (September 2009 - May 2013)
+#### University of Ottawa | Ottawa, Canada | September 2009 - May 2013 |
 *Honours BSc. Specialization in Psychology*
 
 
