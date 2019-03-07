@@ -29,7 +29,7 @@ I'm looking for a junior developer role within a diverse, fast-paced team who ar
 | :----------|:-----------------| :------------| :---------| :-------------| :-------------------|:---------------|
 | Ruby       | Rspec            |  Rails       | React     | Photoshop     |    PivotalTracker   |   R
 | Javascript | Jasmine          |  Bootstrap   | JQuery    | Illustrator   |    Trello           |   SPSS
-| Sass       | Capybara         |  Express     |           | Xd
+| SCSS       | Capybara         |  Express     |           | Xd
 
 #### Quick Learner 
 In every lab I've worked or studied in, I've had to rapidly pick up new skills in different disciplines, ranging from neuroimaging techniques to patient assessments. While at Makers, I picked up multiple languages and fundamental design principles such as object-oriented programming at a similar rapid pace, all while teaching myself React and Adobe Xd to further explore front-end development and web design.
@@ -48,7 +48,7 @@ My years of experience working with commissioners, researchers, students, and pa
 
 | Project               | Stack             | Testing            | Details           |
 | :-------------------: |-------------------| -------------------|-------------------|
-| <img src='ghub_lnch.png' width="250"/><br> [Lunchbox](https://github.com/kiedunne/Lunchbox) | Rails, Javascript, Jquery, SASS, PostgreSQL | RSpec, Capybara, FactoryBot,  SimpleCov, TravisCI | Meet new people in your area on your lunch break |
+| <img src='ghub_lnch.png' width="250"/><br> [Lunchbox](https://github.com/kiedunne/Lunchbox) | Rails, Javascript, Jquery, SCSS, PostgreSQL | RSpec, Capybara, FactoryBot,  SimpleCov, TravisCI | Meet new people in your area on your lunch break |
 | <img src='ghub_romnum .png' width="250" height="70"/><br>[Roman Numeral Converter](https://github.com/kiedunne/roman-numeral-converter)  | Ruby |  RSpec, Capybara, SimpleCov, Travis CI | A webapp roman numeral converter | 
 | [Glia](https://github.com/kiedunne/glia-app)  | React, Rails | RSpec | Client progress manager for psychological clinicians|
 | [Tic-tac-toe](https://github.com/kiedunne/tic-tac-toe)  | Javascript| Jasmine, Travis CI  | Business logic of tic-tac-toe in vanilla Javascript |
