@@ -55,7 +55,7 @@ My years of experience working with commissioners, researchers, students, and pa
 
 ## <a name="education">Education</a>
 
-#### Makers Academy (October 2018 - February 2019)
+**Makers Academy** (October 2018 - February 2019)<br>
 Makers Academy is an intensive software development bootcamp that take people who are curious and passionate about coding and turn them into highly skilled developers. 
 
 - OOP, TDD, BDD
@@ -63,13 +63,13 @@ Makers Academy is an intensive software development bootcamp that take people wh
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine, Cypress
 
-#### Yale University  |  New Haven, CT  |  September 2014 -June 2015 |
+**Yale University** (September 2014 -June 2015)<br>
 *Masters neuroimaging thesis on interactions between stress and eating in the developing brain*
 
-####  University College London | London, UK | October 2013 - July 2014 |
+**University College London** (October 2013 - July 2014)<br>
 *MSc. Developmental Neuroscience & Psychopathology*
 
-#### University of Ottawa | Ottawa, Canada | September 2009 - May 2013 |
+**University of Ottawa** (September 2009 - May 2013 )<br>
 *Honours BSc. Specialization in Psychology*
 
 
