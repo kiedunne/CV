@@ -5,13 +5,6 @@
   <a href="https://sourcerer.io/kiedunne">Sourcerer</a> |
   <a href="https://www.researchgate.net/profile/Jacklyn_Dunne2">ResearchGate</a>
 </p>
-  
-<h2 align='center'>I'm a full-stack developer and previous neuroscience researcher that has a passion for design and wel-tested, sustainable code.</h2>
-
-After spending the last decade working in many different realms of psychiatic and neurocience research, including; spinal cord injury, psychiatric neuroimaging, and drug addiction, I learnt how to code at <a href="http://www.makersacademy.com/">Makers Academy</a>, a dev bootcamp specializing in Ruby, Rails, Javascript, TDD and agile methodologies.
-
-I'm looking for a Junior Developer role with a team who are just as passionate about clean and sustainable code and creating digital products that make the world a better place.
-  
 <p align="center">
   <a href="#skills">Skills</a> |
   <a href="#projects">Selected Projects</a> |
@@ -19,6 +12,15 @@ I'm looking for a Junior Developer role with a team who are just as passionate a
   <a href="#experience">Experience</a> |
   <a href="#interests">Interests</a>
 </p>
+
+***
+
+<h3 align='center'>I'm a full-stack developer and previous neuroscience researcher that has a passion for design and wel-tested, sustainable code.</h3>
+
+After spending the last decade working in many different realms of psychiatic and neurocience research, including; spinal cord injury, psychiatric neuroimaging, and drug addiction, I learnt how to code at <a href="http://www.makersacademy.com/">Makers Academy</a>, a dev bootcamp specializing in Ruby, Rails, Javascript, TDD and agile methodologies.
+
+I'm looking for a Junior Developer role with a team who are just as passionate about clean and sustainable code and creating digital products that make the world a better place.
+ 
 
 ## <a name="skills">Skills</a>
 
@@ -28,8 +30,6 @@ I'm looking for a Junior Developer role with a team who are just as passionate a
 | ---------- |-----------------| -------------| -----------|
 | Ruby       | Rspec/ Capybara |  Rails       |  React     |
 | Javascript | Jasmine/Cypress |  Bootstrap   |  JQuery    |         
-
-## <a name="education">Education</a>
 
 #### Research
 A scientist from day 1, I incorporate the scientific method into how I solve any problem. I've spent the last decade thoroughly understanding complex biological and psychological processes and developing new project ideas that turn into <a href="https://www.researchgate.net/profile/Jacklyn_Dunne2/research">papers, posters or presentations.</a>
@@ -42,12 +42,11 @@ Every role in research I've had has involved breaking down complex subjects and 
 
 ## <a name="projects">Selected Projects</a>
 
-
 | Name                  | Stack             | Testing            | Details           |
 | :-------------------: |-------------------| -------------------|-------------------|
 | [Tic-tac-toe](https://github.com/kiedunne/tic-tac-toe)  | Javascript| Jasmine, Travis CI  | Business logic of tic-tac-toe in vanilla Javascript |
-| <img src='ghub_romnum .png' width="150" height="65"/>[Roman Numeral Converter](https://github.com/kiedunne/roman-numeral-converter)  |   Ruby  |  RSpec, Capybara, SimpleCov, Travis CI | A webapp roman numeral converter | 
-| <img src='ghub_lnch.png' width="150"/> [Meet and Eat](https://github.com/kiedunne/Meet-and-Eat) | Rails, Javascript, Jquery, SASS | RSpec, Capybara, FactoryBot,  SimpleCov, TravisCI | Meet new people in your area on your lunch break
+| <img src='ghub_romnum .png' width="150" height="65"/><br>[Roman Numeral Converter](https://github.com/kiedunne/roman-numeral-converter)  |   Ruby  |  RSpec, Capybara, SimpleCov, Travis CI | A webapp roman numeral converter | 
+| <img src='ghub_lnch.png' width="150"/><br> [Meet and Eat](https://github.com/kiedunne/Meet-and-Eat) | Rails, Javascript, Jquery, SASS | RSpec, Capybara, FactoryBot,  SimpleCov, TravisCI | Meet new people in your area on your lunch break
 
 
 ## <a name="education">Education</a>
