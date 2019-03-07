@@ -1,7 +1,7 @@
 <h1 align='center'>Jackie Dunne</h1>
   
 <p align="center">
-  <a href="#skills">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/jackie-dunne-b8516155/">LinkedIn</a> |
   <a href="https://sourcerer.io/kiedunne">Sourcerer</a> |
   <a href="https://www.researchgate.net/profile/Jacklyn_Dunne2">ResearchGate</a>
 </p>
@@ -17,7 +17,7 @@
 
 <h3 align='center'>I'm a full-stack developer and previous neuroscience researcher that has a passion for design and wel-tested, sustainable code.</h3>
 
-After spending the last decade working in many different realms of psychiatic and neurocience research, including; spinal cord injury, psychiatric neuroimaging, and drug addiction, I learnt how to code at <a href="http://www.makersacademy.com/">Makers Academy</a>, a dev bootcamp specializing in Ruby, Rails, Javascript, TDD and agile methodologies.
+After spending the last decade working in many different realms of psychiatric and neuroscience research, including; spinal cord injury, psychiatric neuroimaging, and drug addiction, I learnt how to code at <a href="http://www.makersacademy.com/">Makers Academy</a>, a dev bootcamp specializing in Ruby, Rails, Javascript, TDD and agile methodologies.
 
 I'm looking for a Junior Developer role with a team who are just as passionate about clean and sustainable code and creating digital products that make the world a better place.
  
@@ -26,7 +26,7 @@ I'm looking for a Junior Developer role with a team who are just as passionate a
 
 #### Technology
 
-| Languages  | Testing         | Frameworkds  |  Libraries |
+| Languages  | Testing         | Frameworks  |  Libraries |
 | ---------- |-----------------| -------------| -----------|
 | Ruby       | Rspec/ Capybara |  Rails       |  React     |
 | Javascript | Jasmine/Cypress |  Bootstrap   |  JQuery    |         
