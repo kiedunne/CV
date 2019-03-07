@@ -15,29 +15,38 @@
 
 ***
 
-<h3 align='center'>I'm a full-stack developer and previous neuroscience researcher that has a passion for design and wel-tested, sustainable code.</h3>
+<h3 align='center'>I'm a full-stack developer and previous neuroscience researcher that has a passion for design and well-tested, maintainable code.</h3>
 
-After spending the last decade working in many different realms of psychiatric and neuroscience research, including; spinal cord injury, psychiatric neuroimaging, and drug addiction, I learnt how to code at <a href="http://www.makersacademy.com/">Makers Academy</a>, a dev bootcamp specializing in Ruby, Rails, Javascript, TDD and agile methodologies.
+After spending the last decade working in many different realms of psychiatric and neuroscience research, including; spinal cord injury, neuroimaging, and drug addiction, I learnt how to code at <a href="http://www.makersacademy.com/">Makers Academy</a>, a dev bootcamp specializing in Ruby, Rails, Javascript, TDD and agile methodologies.
 
-I'm looking for a Junior Developer role with a team who are just as passionate about clean and sustainable code and creating digital products that make the world a better place.
+I'm looking for a junior developer role within a fast-paced team that vales who are passionate creating digital products that make the world a better place.
  
-
 ## <a name="skills">Skills</a>
 
 #### Technology
 
-| Languages  | Testing         | Frameworks  |  Libraries |
-| ---------- |-----------------| -------------| -----------|
-| Ruby       | Rspec/ Capybara |  Rails       |  React     |
-| Javascript | Jasmine/Cypress |  Bootstrap   |  JQuery    |         
+| Languages  | Testing          | Frameworks   | Libraries | Design        |  Project Management |     
+| ---------- |------------------| -------------| ----------| --------------| --------------------| 
+| Ruby       | Rspec            |  Rails       | React     | Photoshop     |    PivotalTracker
+| Javascript | Jasmine          |  Bootstrap   | JQuery    | Illustrator   |     
+|            | Cypress          |              |           | Xd
+|            | Capybara         |              |           |
 
-#### Research
-A scientist from day 1, I incorporate the scientific method into how I solve any problem. I've spent the last decade thoroughly understanding complex biological and psychological processes and developing new project ideas that turn into <a href="https://www.researchgate.net/profile/Jacklyn_Dunne2/research">papers, posters or presentations.</a>
+#### Quick Learner 
+In every lab I've worked or studied in I've had to rapidly pick up new tehcniques in domains from neuroimaging to patient assessments. While at Makers, I picked up multiple languages and fundamental design principles such as object-oriented programming at a rapid pace, all while teaching myself React and Adobe Xd to further explore front-end development and web design.
+
+### Adaptable
+Filling many diferent roles while working on academic projects, such as researcher, trial manager or data scientist, has made me very quick to adapt to the needs of the project and my team. During our group engineering projects at Makers, I took on many roles....
+
+#### Creative
+Being a fine , and having a keeen interest in graphic design has 
 
 #### Data Analysis
-I'm a big believer in using data to shape the direction of a project, be it building a slick app or implementing a novel treatment for patients. I have led and contributed to many projects that used data to gain insights into a psychological or neurological problem I've used R, SPSS and STATA to understand trends in all kinds of data- from a database of alcohol and smoking trends in the UK to the recovery outcomes of spinal cord injury patients.
+I have led and contributed to many projects that used data to gain insights into a psychological I've used R, SPSS and STATA to understand trends in all kinds of data- from a database of alcohol and smoking trends in the UK to the recovery outcomes of spinal cord injury patients.
 
-#### Facilitation and Training
+#### Communication and Facilitation
+My years of experience working with commissioners, researchers, and patients to deliver solutions to various problems in healthcare delivery has also given me many client-side skills I think would be especially helpful in a consulting environment.
+
 Every role in research I've had has involved breaking down complex subjects and analysis techniques into succinct points and communicating to audiences of various backgrounds. I have led training sessions for staff on interacting with patients and data collection as well as supervised masters students.
 
 ## <a name="projects">Selected Projects</a>
@@ -45,25 +54,25 @@ Every role in research I've had has involved breaking down complex subjects and 
 | Name                  | Stack             | Testing            | Details           |
 | :-------------------: |-------------------| -------------------|-------------------|
 | [Tic-tac-toe](https://github.com/kiedunne/tic-tac-toe)  | Javascript| Jasmine, Travis CI  | Business logic of tic-tac-toe in vanilla Javascript |
-| <img src='ghub_romnum .png' width="150" height="65"/><br>[Roman Numeral Converter](https://github.com/kiedunne/roman-numeral-converter)  |   Ruby  |  RSpec, Capybara, SimpleCov, Travis CI | A webapp roman numeral converter | 
-| <img src='ghub_lnch.png' width="150"/><br> [Meet and Eat](https://github.com/kiedunne/Meet-and-Eat) | Rails, Javascript, Jquery, SASS | RSpec, Capybara, FactoryBot,  SimpleCov, TravisCI | Meet new people in your area on your lunch break
+| <img src='ghub_romnum .png' width="150" height="65"/><br>[Roman Numeral Converter](https://github.com/kiedunne/roman-numeral-converter)  | Ruby |  RSpec, Capybara, SimpleCov, Travis CI | A webapp roman numeral converter | 
+| <img src='ghub_lnch.png' width="150"/><br> [Lunchbox](https://github.com/kiedunne/Lunchbox) | Rails, Javascript, Jquery, SASS, PostgreSQL | RSpec, Capybara, FactoryBot,  SimpleCov, TravisCI | Meet new people in your area on your lunch break
 
 
 ## <a name="education">Education</a>
 
-#### Makers Academy (October 2018 to February 2019)
-I am a recent graduate of Makers Academy, an intensive software development bootcamp that take people who are curious and passionate about coding and turn them into highly skilled developers. 
+#### Makers Academy (October 2018 - February 2019)
+Makers Academy is an intensive software development bootcamp that take people who are curious and passionate about coding and turn them into highly skilled developers. 
 
 - OOP, TDD, BDD
 - Agile/XP values
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine, Cypress
 
-#### University College London & Yale University  (October 2013 to June 2015)
-*MSc. Developmental Neuroscience & Psychopathology- Merit*
+#### University College London & Yale University  (October 2013 - June 2015)
+*MSc. Developmental Neuroscience & Psychopathology*
 
-#### University of Ottawa (September 2009 to May 2013)
-*BSc. Specialization in Psychology- Honours*
+#### University of Ottawa (September 2009 - May 2013)
+*Honours BSc. Specialization in Psychology*
 
 
 ## <a name="experience">Experience</a>
@@ -84,6 +93,6 @@ I am a recent graduate of Makers Academy, an intensive software development boot
 *Researcher - Neurosurgery*
 
 ### <a name="interests">Interests</a>
-- <b>Drawing and design</b>
-- <b>Psychology Research<b/>- Member of the British Psychological Society (BPS)
-- <b>Bouldering</b>
+- <a href="https://drive.google.com/open?id=1cE2pHIq6zSPubQbeUXKMxd23bLfuOAN3">Art & Design</a>  
+- <a href="https://www.researchgate.net/profile/Jacklyn_Dunne2">Psychology & Neuroscience</a>
+- Bouldering
