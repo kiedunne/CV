@@ -63,7 +63,7 @@ Makers Academy is an intensive software development bootcamp that take people wh
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine, Cypress
 
-**Yale University** (September 2014 -June 2015)<br>
+**Yale University** (September 2014 - June 2015)<br>
 *Masters neuroimaging thesis on interactions between stress and eating in the developing brain*
 
 **University College London** (October 2013 - July 2014)<br>
@@ -75,19 +75,19 @@ Makers Academy is an intensive software development bootcamp that take people wh
 
 ## <a name="experience">Experience</a>
 
-**King's College London, London, UK** (March 2016 to October 2018)    
+**King's College London, London, UK** (March 2016 - October 2018)    
 *Researcher - Department of Addiction*  
 
-**CLUG & Hurdler Studios, Vancouver, Canada** (September 2015 to June 2016)   
+**CLUG & Hurdler Studios, Vancouver, Canada** (September 2015 - June 2016)   
 *Customer Support & Social Media Co-ordinator*
 
-**Yale University, New Haven, USA** (September 2015 to June 2016)   
+**Yale University, New Haven, USA** (September 2015 - June 2016)   
 *Graduate Researcher- Department of Addiction*
 
-**The Anna Freud Centre, London, UK** (December 2013 to April 2014)    
+**The Anna Freud Centre, London, UK** (December 2013 - April 2014)    
 *Researcher - Evidence-based Practice Unit*
 
-**The Ottawa Civic Hospital, Ottawa, Canada** (August 2012 to May 2013)    
+**The Ottawa Civic Hospital, Ottawa, Canada** (August 2012 - May 2013)    
 *Researcher - Neurosurgery*
 
 ### <a name="interests">Interests</a>
