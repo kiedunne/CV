@@ -35,7 +35,7 @@ I'm looking for a junior developer role within a diverse, fast-paced team who ar
 In every lab I've worked or studied in, I've had to rapidly pick up new skills in different disciplines, ranging from neuroimaging techniques to patient assessments. While at Makers, I picked up multiple languages and fundamental design principles such as object-oriented programming at a similar rapid pace, all while teaching myself React and Adobe Xd to further explore front-end development and web design.
 
 #### Adaptable
-Filling many different roles while working on academic projects, such as researcher, trial manager and data scientist, has made me very quick to adapt to the needs of the project and my team. During our group engineering projects at Makers, I took on many roles across the entire product cycle, such as sketching out and implementing UI designs, testing back-end controllers or managing continuous integration and deployment. 
+Filling many different roles while working on academic projects, such as researcher, manager and data scientist, has made me very quick to adapt to the needs of the project and my team. During our group engineering projects at Makers, I took on many roles across the entire product cycle, such as sketching out and implementing UI designs, testing back-end controllers or managing continuous integration and deployment. 
 
 #### Creative
 I'm a visual artist, I love creating unique compositions that challenge expectations with color and form. I approach every project I work on with this same enthusiasm to embrace alternative solutions to technical problems. 
