@@ -19,7 +19,7 @@
 
 After spending the last decade working in many different realms of psychiatric and neuroscience research, including; spinal cord injury, neuroimaging, and drug addiction, I learnt how to code at <a href="http://www.makersacademy.com/">Makers Academy</a>, a dev bootcamp specializing in Ruby, Rails, Javascript, TDD and agile methodologies.
 
-I'm looking for a junior developer role within a fast-paced team that vales who are passionate creating digital products that make the world a better place.
+I'm looking for a junior developer role within a diverse, fast-paced team who are as passionate about creating unique digital products as I am.
  
 ## <a name="skills">Skills</a>
 
