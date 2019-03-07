@@ -1,16 +1,16 @@
-<h1 align='center'>Jackie Dunne<h1>
+<h1 align='center'>Jackie Dunne</h1>
   
-  <p align="center">
+<p align="center">
   <a href="#skills">LinkedIn</a> |
   <a href="https://sourcerer.io/kiedunne">Sourcerer</a> |
   <a href="https://www.researchgate.net/profile/Jacklyn_Dunne2">ResearchGate</a>
 </p>
   
-I'm a full-stack developer and previous neuroscience researcher that recently graduated from <a href="http://www.makersacademy.com/" rel="nofollow">Makers Academy</a>, a dev bootcamp specializing in Ruby, Rails, Javascript, TDD and agile methodologies.
+<h2 align='center'>I'm a full-stack developer and previous neuroscience researcher that has a passion for design and wel-tested, sustainable code.</h2>
 
-I've spent the last decade working with health-related data in many the realms including; spinal cord injury, psychiatric neuroimaging, and drug addiction and am looking for a new challenge in the form of software development.
+After spending the last decade working in many different realms of psychiatic and neurocience research, including; spinal cord injury, psychiatric neuroimaging, and drug addiction, I learnt how to code at <a href="http://www.makersacademy.com/">Makers Academy</a>, a dev bootcamp specializing in Ruby, Rails, Javascript, TDD and agile methodologies.
 
-I'm looking for my first role as a Junior Developer with a team who are just as passionate about clean and sustainable code and creating digital products that make the world a better place.   
+I'm looking for a Junior Developer role with a team who are just as passionate about clean and sustainable code and creating digital products that make the world a better place.
   
 <p align="center">
   <a href="#skills">Skills</a> |
@@ -21,6 +21,15 @@ I'm looking for my first role as a Junior Developer with a team who are just as 
 </p>
 
 ## <a name="skills">Skills</a>
+
+#### Technology
+
+| Languages  | Testing         | Frameworkds  |  Libraries |
+| ---------- |-----------------| -------------| -----------|
+| Ruby       | Rspec/ Capybara |  Rails       |  React     |
+| Javascript | Jasmine/Cypress |  Bootstrap   |  JQuery    |         
+
+## <a name="education">Education</a>
 
 #### Research
 A scientist from day 1, I incorporate the scientific method into how I solve any problem. I've spent the last decade thoroughly understanding complex biological and psychological processes and developing new project ideas that turn into <a href="https://www.researchgate.net/profile/Jacklyn_Dunne2/research">papers, posters or presentations.</a>
@@ -33,11 +42,12 @@ Every role in research I've had has involved breaking down complex subjects and 
 
 ## <a name="projects">Selected Projects</a>
 
-| Name        | Stack           | Details |
-| ------------- |-------------| -----|
-| [Tic-tac-toe](https://github.com/kiedunne/tic-tac-toe)  | Javascript, Jasmine | Business logic of tic-tac-toe in Javascript |
-| [Roman Numeral Converter](https://github.com/kiedunne/roman-numeral-converter)  | Ruby, RSpec, Capybara, SimpleCov, Travis CI  |  A simple ruby app to convert decimal numbers to roman numerals |
-| [Meet and Eat](https://github.com/kiedunne/Meet-and-Eat) | Rails, Javascript, Jquery, SASS , RSpec, Capybara, FactoryBot,  SimpleCov, TravisCI | A rails app used to make and join lunch groups in your area |
+
+| Name                  | Stack             | Testing            | Details           |
+| :-------------------: |-------------------| -------------------|-------------------|
+| [Tic-tac-toe](https://github.com/kiedunne/tic-tac-toe)  | Javascript| Jasmine, Travis CI  | Business logic of tic-tac-toe in vanilla Javascript |
+| <img src='ghub_romnum .png' width="150" height="65"/>[Roman Numeral Converter](https://github.com/kiedunne/roman-numeral-converter)  |   Ruby  |  RSpec, Capybara, SimpleCov, Travis CI | A webapp roman numeral converter | 
+| <img src='ghub_lnch.png' width="150"/> [Meet and Eat](https://github.com/kiedunne/Meet-and-Eat) | Rails, Javascript, Jquery, SASS | RSpec, Capybara, FactoryBot,  SimpleCov, TravisCI | Meet new people in your area on your lunch break
 
 
 ## <a name="education">Education</a>
