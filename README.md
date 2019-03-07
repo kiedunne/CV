@@ -1,4 +1,4 @@
-<h1 align='center'>Jackie Dunne</h1>
+<b><h1 align='center'>Jackie Dunne</h1></b>
   
 <p align="center">
   <a href="https://www.linkedin.com/in/jackie-dunne-b8516155/">LinkedIn</a> |
@@ -26,36 +26,32 @@ I'm looking for a junior developer role within a fast-paced team that vales who 
 #### Technology
 
 | Languages  | Testing          | Frameworks   | Libraries | Design        |  Project Management |     
-| ---------- |------------------| -------------| ----------| --------------| --------------------| 
+| :---------:|:----------------:| :-----------:| :--------:| :------------:| :------------------:| 
 | Ruby       | Rspec            |  Rails       | React     | Photoshop     |    PivotalTracker
-| Javascript | Jasmine          |  Bootstrap   | JQuery    | Illustrator   |     
-|            | Cypress          |              |           | Xd
-|            | Capybara         |              |           |
+| Javascript | Jasmine          |  Bootstrap   | JQuery    | Illustrator   |    Trello 
+| Sass       | Capybara         |  Express     |           | Xd
 
 #### Quick Learner 
-In every lab I've worked or studied in I've had to rapidly pick up new tehcniques in domains from neuroimaging to patient assessments. While at Makers, I picked up multiple languages and fundamental design principles such as object-oriented programming at a rapid pace, all while teaching myself React and Adobe Xd to further explore front-end development and web design.
+In every lab I've worked or studied in, I've had to rapidly pick up new skills in different disciplines, ranging from neuroimaging techniques to patient assessments. While at Makers, I picked up multiple languages and fundamental design principles such as object-oriented programming at a similar rapid pace, all while teaching myself React and Adobe Xd to further explore front-end development and web design.
 
-### Adaptable
-Filling many diferent roles while working on academic projects, such as researcher, trial manager or data scientist, has made me very quick to adapt to the needs of the project and my team. During our group engineering projects at Makers, I took on many roles....
+#### Adaptable
+Filling many different roles while working on academic projects, such as researcher, trial manager and data scientist, has made me very quick to adapt to the needs of the project and my team. During our group engineering projects at Makers, I took on many roles across the entire product cycle, such as sketching out and implementing UI designs, testing back-end controllers or managing continuous integration and deployment. 
 
 #### Creative
-Being a fine , and having a keeen interest in graphic design has 
-
-#### Data Analysis
-I have led and contributed to many projects that used data to gain insights into a psychological I've used R, SPSS and STATA to understand trends in all kinds of data- from a database of alcohol and smoking trends in the UK to the recovery outcomes of spinal cord injury patients.
+I'm a visual artist, I love creating unique compositions that challenge expectations with color and form. I approach every project I work on with this same enthusiasm to embrace alternative solutions to technical problems. 
 
 #### Communication and Facilitation
-My years of experience working with commissioners, researchers, and patients to deliver solutions to various problems in healthcare delivery has also given me many client-side skills I think would be especially helpful in a consulting environment.
+My years of experience working with commissioners, researchers, students, and patients has given me skills in communicating solutions to complex problems in a succinct manner to audiences of various backgrounds. While working on our engineering projects at Makers, I often led the stand-ups and assigned tasks to each team member on our Trello boards, as well as assigned difficulty and time estimations.
 
-Every role in research I've had has involved breaking down complex subjects and analysis techniques into succinct points and communicating to audiences of various backgrounds. I have led training sessions for staff on interacting with patients and data collection as well as supervised masters students.
 
 ## <a name="projects">Selected Projects</a>
 
-| Name                  | Stack             | Testing            | Details           |
+| Project               | Stack             | Testing            | Details           |
 | :-------------------: |-------------------| -------------------|-------------------|
 | [Tic-tac-toe](https://github.com/kiedunne/tic-tac-toe)  | Javascript| Jasmine, Travis CI  | Business logic of tic-tac-toe in vanilla Javascript |
-| <img src='ghub_romnum .png' width="150" height="65"/><br>[Roman Numeral Converter](https://github.com/kiedunne/roman-numeral-converter)  | Ruby |  RSpec, Capybara, SimpleCov, Travis CI | A webapp roman numeral converter | 
-| <img src='ghub_lnch.png' width="150"/><br> [Lunchbox](https://github.com/kiedunne/Lunchbox) | Rails, Javascript, Jquery, SASS, PostgreSQL | RSpec, Capybara, FactoryBot,  SimpleCov, TravisCI | Meet new people in your area on your lunch break
+| [Glia](https://github.com/kiedunne/glia-app)  | React, Rails | RSpec | Client progress manager for psychological clinicians 
+| <img src='ghub_romnum .png' width="250" height="70"/><br>[Roman Numeral Converter](https://github.com/kiedunne/roman-numeral-converter)  | Ruby |  RSpec, Capybara, SimpleCov, Travis CI | A webapp roman numeral converter | 
+| <img src='ghub_lnch.png' width="250"/><br> [Lunchbox](https://github.com/kiedunne/Lunchbox) | Rails, Javascript, Jquery, SASS, PostgreSQL | RSpec, Capybara, FactoryBot,  SimpleCov, TravisCI | Meet new people in your area on your lunch break
 
 
 ## <a name="education">Education</a>
