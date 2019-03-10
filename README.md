@@ -79,7 +79,7 @@ Makers Academy is an intensive software development bootcamp that take people wh
 *Researcher - Department of Addiction*  
 <ul>
 <li>Completed health assessments with patients in South London struggling with substance misuse</li>
-<li>Wrote and disseminated<a href="https://www.researchgate.net/profile/Jacklyn_Dunne2/research">papers and presentations</a> about alcohol and opioid dependence</li>
+<li>Wrote and disseminated <a href="https://www.researchgate.net/profile/Jacklyn_Dunne2/research">papers and presentations</a> about alcohol and opioid dependence</li>
 <li> Designed the branding and infographics for <a href="https://drive.google.com/open?id=1KjDTtznU6cdYhks1tWZaaKpXWnGzddUr">BRANCH</a>, an app designed to help young people cut back drinking</li>
 </ul>
 
@@ -87,13 +87,6 @@ Makers Academy is an intensive software development bootcamp that take people wh
 *Customer Support & Social Media Co-ordinator*
 <ul>
  <li>Managed customer service, social media and marketing campaigns for <a href="https://www.thehornit.com/getclug">CLUG</a>, the world's smallest bikerack</li>
-</ul>
-
-**Yale University, New Haven, USA** (September 2015 - June 2016)   
-*Graduate Researcher- Department of Addiction*
-<ul>
- <li>Completed an fMRI investigation of responses to favorite-food, stress and neutral cues in an adolescent population</li>
- <li>Completed a literature review of adolescent obesity in the context of the reward and stress systems</li>
 </ul>
 
 **The Anna Freud Centre, London, UK** (December 2013 - April 2014)    
@@ -105,7 +98,7 @@ Makers Academy is an intensive software development bootcamp that take people wh
 **The Ottawa Civic Hospital, Ottawa, Canada** (August 2012 - May 2013)    
 *Researcher - Neurosurgery*
 <ul>
-<li>Completed spinal cord injury assessments from participant data files and conducted phone interviews with participants</li>
+<li>Completed spinal cord injury assessments and phone interviews with participants recruited to a study about spinal cord injury outcomes </li>
 <li>Assisted with an animal investigation of stem cell efficacy in crossing thoracic spinal cord transections</li>
 </ul>
 
