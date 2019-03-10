@@ -64,7 +64,7 @@ Makers Academy is an intensive software development bootcamp that take people wh
 - RSpec, Jasmine, Cypress
 
 **Yale University** (September 2014 - June 2015)<br>
-*Masters neuroimaging thesis on interactions between stress and eating in the developing brain*
+*MSc. thesis on neuroimaging interactions between stress and eating in the developing brain*
 
 **University College London** (October 2013 - July 2014)<br>
 *MSc. Developmental Neuroscience & Psychopathology*
@@ -79,25 +79,35 @@ Makers Academy is an intensive software development bootcamp that take people wh
 *Researcher - Department of Addiction*  
 <ul>
 <li>Completed health assessments with patients in South London struggling with substance misuse</li>
-<li>Wrote and disseminated papers and presentations about alcohol and opioid dependence</li>
+<li>Wrote and disseminated<a href="https://www.researchgate.net/profile/Jacklyn_Dunne2/research">papers and presentations</a> about alcohol and opioid dependence</li>
 <li> Designed the branding and infographics for <a href="https://drive.google.com/open?id=1KjDTtznU6cdYhks1tWZaaKpXWnGzddUr">BRANCH</a>, an app designed to help young people cut back drinking</li>
 </ul>
 
 **CLUG & Hurdler Studios, Vancouver, Canada** (July 2015 - June 2016)   
 *Customer Support & Social Media Co-ordinator*
+<ul>
+ <li>Managed customer service, social media and marketing campaigns for <a href="https://www.thehornit.com/getclug">CLUG</a>, the world's smallest bikerack</li>
+</ul>
 
 **Yale University, New Haven, USA** (September 2015 - June 2016)   
 *Graduate Researcher- Department of Addiction*
 <ul>
- <li>Completed an fMRI investigation of BMI-based responses to favorite-food, stress and neutral cues in an adolescent population</li>
- <li>Compiled literature review on neuroimaging investigations of adolescent obesity in the context of the reward and stress systems</li>
+ <li>Completed an fMRI investigation of responses to favorite-food, stress and neutral cues in an adolescent population</li>
+ <li>Completed a literature review of adolescent obesity in the context of the reward and stress systems</li>
 </ul>
 
 **The Anna Freud Centre, London, UK** (December 2013 - April 2014)    
 *Researcher - Evidence-based Practice Unit*
+<ul>
+<li>Assisted with the development of the <a href="https://www.annafreud.org/on-my-mind/youth-wellbeing/">Youth Wellbeing Directory</a>, an online service directory for children and adolescents with psychological difficulties</li>
+</ul>
 
 **The Ottawa Civic Hospital, Ottawa, Canada** (August 2012 - May 2013)    
 *Researcher - Neurosurgery*
+<ul>
+<li>Completed spinal cord injury assessments from participant data files and conducted phone interviews with participants</li>
+<li>Assisted with an animal investigation of stem cell efficacy in crossing thoracic spinal cord transections</li>
+</ul>
 
 ### <a name="interests">Interests</a>
 - <a href="https://drive.google.com/open?id=1cE2pHIq6zSPubQbeUXKMxd23bLfuOAN3">Art & Design</a>  
