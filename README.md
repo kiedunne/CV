@@ -15,11 +15,12 @@
 
 ***
 
-<h3 align='center'>I'm a full-stack developer and previous neuroscience researcher that has a passion for design and well-tested, maintainable code.</h3>
+<h3 align='center'>I'm a full-stack developer and previous <a href="https://www.youtube.com/watch?v=cUoFLlc54HA">award winning</a> psychology and neuroscience researcher that is passionate about design and well-tested, maintainable code.</h3> 
 
-After spending the last decade working in many different realms of psychiatric and neuroscience research, including; spinal cord injury, neuroimaging, and drug addiction, I learnt how to code at <a href="http://www.makersacademy.com/">Makers Academy</a>, a dev bootcamp specializing in Ruby, Rails, Javascript, TDD and agile methodologies.
+After spending the last decade working in many different realms of psychiatric and neuroscience research, including; spinal cord injury, neuroimaging, and drug addiction, I learnt how to code at Makers Academy, a dev bootcamp specialising in Ruby, Rails, Javascript, TDD and agile methodologies.
 
 I'm looking for a junior developer role within a diverse, fast-paced team who are as passionate about creating unique digital products as I am.
+
  
 ## <a name="skills">Skills</a>
 
@@ -31,19 +32,6 @@ I'm looking for a junior developer role within a diverse, fast-paced team who ar
 | Javascript | Jasmine          |  Bootstrap   | JQuery    | Illustrator   |    Trello           |   SPSS
 | SCSS       | Capybara         |  Express     |           | Xd
 
-#### Quick Learner 
-In every lab I've worked or studied in, I've had to rapidly pick up new skills in different disciplines, ranging from neuroimaging techniques to patient assessments. While at Makers, I picked up multiple languages and fundamental design principles such as object-oriented programming at a similar rapid pace, all while teaching myself React and Adobe Xd to further explore front-end development and web design.
-
-#### Adaptable
-Filling many different roles while working on academic projects, such as researcher, manager and data scientist, has made me very quick to adapt to the needs of the project and my team. During our group engineering projects at Makers, I took on many roles across the entire product cycle, such as sketching out and implementing UI designs, testing back-end controllers or managing continuous integration and deployment. 
-
-#### Creative
-I'm a visual artist, I love creating unique compositions that challenge expectations with color and form. I approach every project I work on with this same enthusiasm to embrace alternative solutions to technical problems. 
-
-#### Communication and Facilitation
-My years of experience working with commissioners, researchers, students, and patients has given me skills in communicating solutions to complex problems in a succinct manner to audiences of various backgrounds. While working on our engineering projects at Makers, I often led the stand-ups and assigned tasks to each team member on our Trello boards, as well as assigned difficulty and time estimations.
-
-
 ## <a name="projects">Selected Projects</a>
 
 | Project               | Stack             | Testing            | Details           |
@@ -52,6 +40,18 @@ My years of experience working with commissioners, researchers, students, and pa
 | <img src='ghub_romnum .png' width="250" height="70"/><br>[Roman Numeral Converter](https://github.com/kiedunne/roman-numeral-converter)  | Ruby |  RSpec, Capybara, SimpleCov, Travis CI | A webapp roman numeral converter | 
 | [Glia](https://github.com/kiedunne/glia-app)  | React, Rails | RSpec | Client progress manager for psychological clinicians|
 | [Tic-tac-toe](https://github.com/kiedunne/tic-tac-toe)  | Javascript| Jasmine, Travis CI  | Business logic of tic-tac-toe in vanilla Javascript |
+
+#### Quick Learner 
+In every lab I've worked or studied in, I've had to rapidly pick up new skills in different disciplines, ranging from neuroimaging techniques to patient research. While at Makers, I picked up multiple languages and fundamental design principles such as object-oriented programming at a similar rapid pace, all while teaching myself React and Adobe Xd to further explore front-end development and web design.
+
+#### Adaptable
+Filling many different roles while working on academic projects, such as researcher, manager and data scientist, has made me very quick to adapt to the needs of the project and my team. During our group engineering projects at Makers, I took on many roles across the entire product cycle, such as sketching out and implementing UI designs, testing back-end controllers or managing continuous integration and deployment. 
+
+#### Creative
+I'm a <a href="https://drive.google.com/open?id=1cE2pHIq6zSPubQbeUXKMxd23bLfuOAN3">visual artist</a>, I love creating unique compositions that challenge expectations with color and form. I approach every project I work on with this same enthusiasm to embrace alternative solutions to technical problems. 
+
+#### Communication and Facilitation
+My years of experience working with commissioners, researchers, students, and patients has given me skills in communicating solutions to complex problems in a succinct manner to audiences of various backgrounds. While working on our engineering projects at Makers, I often led the stand-ups and assigned tasks to each team member on our Trello boards, as well as assigned difficulty and time estimations.
 
 ## <a name="education">Education</a>
 
@@ -75,14 +75,23 @@ Makers Academy is an intensive software development bootcamp that take people wh
 
 ## <a name="experience">Experience</a>
 
-**King's College London, London, UK** (March 2016 - October 2018)    
+**King's College London, London, UK** (March 2017 - October 2018)    
 *Researcher - Department of Addiction*  
+<ul>
+<li>Completed health assessments with patients in South London struggling with substance misuse</li>
+<li>Wrote and disseminated papers and presentations about alcohol and opioid dependence</li>
+<li> Designed the branding and infographics for <a href="https://drive.google.com/open?id=1KjDTtznU6cdYhks1tWZaaKpXWnGzddUr">BRANCH</a>, an app designed to help young people cut back drinking</li>
+</ul>
 
-**CLUG & Hurdler Studios, Vancouver, Canada** (September 2015 - June 2016)   
+**CLUG & Hurdler Studios, Vancouver, Canada** (July 2015 - June 2016)   
 *Customer Support & Social Media Co-ordinator*
 
 **Yale University, New Haven, USA** (September 2015 - June 2016)   
 *Graduate Researcher- Department of Addiction*
+<ul>
+ <li>Completed an fMRI investigation of BMI-based responses to favorite-food, stress and neutral cues in an adolescent population</li>
+ <li>Compiled literature review on neuroimaging investigations of adolescent obesity in the context of the reward and stress systems</li>
+</ul>
 
 **The Anna Freud Centre, London, UK** (December 2013 - April 2014)    
 *Researcher - Evidence-based Practice Unit*
