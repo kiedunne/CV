@@ -56,7 +56,7 @@ My years of experience working with commissioners, researchers, students, and pa
 ## <a name="education">Education</a>
 
 **Makers Academy** (October 2018 - February 2019)<br>
-Makers Academy is an intensive software development bootcamp that take people who are curious and passionate about coding and turn them into highly skilled developers. 
+Makers Academy is an intensive software development bootcamp that takes people who are curious and passionate about coding and turns them into highly skilled developers. 
 
 - OOP, TDD, BDD
 - Agile/XP values
